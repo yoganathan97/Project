@@ -1,0 +1,227 @@
+QualityReport
+17 February 2023 15:04:17
+
+------ Start build(LCD_TEST, DefaultBuild) ------
+------ Build ended(Error:0, Warning:0)(LCD_TEST, DefaultBuild) ------
+
+
+--- SHA1 hash value of output files ---
+F:\madhumitha\Workspace\Renesas\VFD Data Logger\LCD_TEST\DefaultBuild\LCD_TEST.abs: 54d8b75bd01afbe266b297e7e8c146e7e2fa0e87
+F:\madhumitha\Workspace\Renesas\VFD Data Logger\LCD_TEST\DefaultBuild\LCD_TEST.mot: 19ade9ee2340b1d72825fca6fbb35772430e3063
+
+
+--- System Information ---
+*OS Version
+ Microsoft Windows 10 Enterprise (-, 10.0.19044, WOW64)
+*Language
+ English (United States)
+*.NET Framework Version
+ Microsoft .NET Framework 4 [.NET 4.8 or later] (528372)
+
+--- Application Information ---
+*Product Name
+ CS+ for CC
+*Package Version
+ V8.08.00  [10 Jun 2022]
+*Version
+ V9.08.00.02 [13 May 2022]
+*Assembly Version
+ 3.12.10.1
+*Sales Area
+ Japan
+*Product License
+ 
+*Execution Place
+ C:\Program Files (x86)\Renesas Electronics\CS+\CC
+*Memory Usage
+ *Private Working Set
+  366 MB
+ *Number of GDI Objects
+  2255
+ *Number of USER Objects
+  1644
+ *Opened Files
+  3 editors, 3 files, 14 KB
+
+--- Build Tool Plug-in Information ---
+RH850 Build tool CC-RH Plug-in
+ *Version
+  V8.02.00.00 [25 Mar 2019]
+ *Assembly Version
+  1.1.10.12
+ *DLL File Name
+  BuildToolCCRH.dll
+RL78 Build tool CC-RL Plug-in
+ *Version
+  V8.08.00.00 [22 Apr 2022]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  BuildToolCCRL.dll
+RX Build tool CC-RX Plug-in
+ *Version
+  V8.02.00.00 [25 Mar 2019]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  BuildToolCCRX.dll
+RH850 Build tool GHS CCRH850 Plug-in
+ *Version
+  V1.06.00.01 [27 May 2022]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  BuildToolGHSCCRH850.dll
+
+--- Debug Tool Plug-in Information ---
+Debugger Collection Plug-in
+ *Version
+  V8.08.00.03 [30 May 2022]
+ *Assembly Version
+  2.12.10.1
+ *DLL File Name
+  DebugToolCollection.dll
+
+--- Other Plug-in Information ---
+Code Generator Plug-in for RH850
+ *Version
+  V1.02.02.05 [25 May 2018]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  CodeGeneratorRH850.dll
+Code Generator Plug-in
+ *Version
+  V4.08.05.01 [14 Aug 2020]
+ *Assembly Version
+  3.0.0.0
+ *DLL File Name
+  CodePart.dll
+Code Generator/PinView Plug-in
+ *Version
+  V2.10.07.02 [08 Nov 2021]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  CodePart2.dll
+Debug Console Plug-in
+ *Version
+  V7.00.00.01 [06 Apr 2018]
+ *Assembly Version
+  7.0.0.0
+ *DLL File Name
+  DebugConsole.dll
+Quick and Effective tool solution - QE
+ *Version
+  V9.08.00.03 [23 May 2022]
+ *Assembly Version
+  1.15.10.16
+ *DLL File Name
+  InCarTools.dll
+Pin Configurator Plug-in
+ *Version
+  V1.54.01.01 [31 Jul 2014]
+ *Assembly Version
+  1.6.10.23
+ *DLL File Name
+  PinConfig.dll
+Program Analyzer Plug-in
+ *Version
+  V4.12.00.01 [14 Apr 2021]
+ *Assembly Version
+  3.12.11.9
+ *DLL File Name
+  ProgramAnalyzer.dll
+IronPython Console Plug-in
+ *Version
+  V1.44.00.03 [06 Jun 2022]
+ *Assembly Version
+  1.6.10.23
+ *DLL File Name
+  PythonConsole.dll
+Editor plug-in DLL
+ *Version
+  V1.18.00.01 [22 Apr 2022]
+ *Assembly Version
+  1.1.0.0
+ *DLL File Name
+  SEditor.dll
+Stack Usage Tracer
+ *Version
+  V1.05.00.02 [30 Jul 2014]
+ *Assembly Version
+  1.30.11.15
+ *DLL File Name
+  Stk.dll
+Update Manager Plug-in
+ *Version
+  V2.03.00.02 [29 Oct 2018]
+ *Assembly Version
+  1.13.6.20
+ *DLL File Name
+  Update.dll
+
+Debug Tool Common Interface
+ *Version
+  V8.08.00.03 [30 May 2022]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  CommonDebuggerInterface.dll
+Device Information Common Interface
+ *Version
+  V9.08.00.01 [22 Apr 2022]
+ *Assembly Version
+  3.0.0.0
+ *DLL File Name
+  DeviceInformation.dll
+
+--- Main Project Information ---
+F:\madhumitha\Workspace\Renesas\VFD Data Logger\LCD_TEST\LCD_TEST.mtpj
+Microcontroller Information
+ *R5F104ML
+  *File Name: Version
+   RL78_Productlist.xml: V8.070100
+   R5F104ML_common.xml: V2.30.00.XX.01
+   DR5F104ML.DVF: V2.30
+   g14_mxafb.ti: V1.00
+   -: -
+  
+
+Build Tool Information
+ *CC-RL
+   * Version of plug-in(*.dll)
+     V8.08.00.03 [03 Jun 2022]
+   * The Version of the Compiler Package
+     V1.11.00
+  
+ * The version of SMS Assembler
+   V1.00.00.01 [29 May 2020]
+ 
+
+Debug Tool Information
+ *RL78 E2 Lite
+  Debugger Library V8.08.00.03 [30 May 2022]
+  
+
+Other Tool Information
+ *None
+
+ *None
+
+ *None
+
+ *Pin Configurator
+ *Program Analyzer
+  *Version
+   V4.12.00.01 [14 Apr 2021]
+
+ *Code Generator
+Other Information
+ *RL78/G14 Code Library
+  *Version
+   V2.05.06.02 [08 Nov 2021]
+  *Description
+   Code library for RL78/G14 code generation plugin.
+
+
